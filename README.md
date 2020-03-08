@@ -11,4 +11,3 @@ Fibonacci.of(4) == 3
 Fibonacci.of(5) == 5
 ...
 在main函数用循环打印1~200的Fibonacci数列
-test2
